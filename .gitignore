@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+*.parquet
+export_gemma_to_hf.py
+model/
 # Distribution / packaging
 .Python
 build/
